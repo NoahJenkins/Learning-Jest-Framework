@@ -1,4 +1,4 @@
-import { sum, subtract, multiply, divide } from './calculator.js';
+import { sum, subtract, multiply, divide } from '../src/calculator.js';
 
 describe('Calculator', () => {
     test('sum', () => {
